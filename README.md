@@ -4,4 +4,4 @@ This project is a full-stack web application for managing posts. It's built with
 
 ## Features
 
-- | Add Post |:  Users can create and publish new posts.
+- <b> Add Post </b>:  Users can create and publish new posts.
